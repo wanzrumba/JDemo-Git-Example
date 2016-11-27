@@ -3,4 +3,4 @@ Demo Git avec SourceTree
 
 # First Change
 
-# Let's learn Git together - again from Dev Team.
+# Let's learn Git together - again from Dev Team - by Expert.
