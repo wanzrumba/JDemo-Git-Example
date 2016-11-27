@@ -3,4 +3,4 @@ Demo Git avec SourceTree
 
 # First Change
 
-# A throwaway repo for a Git tutorial
+# Let's learn Git together.
